@@ -15,6 +15,7 @@ function Pagination(props) {
         <>
             <div className="topbar-filter">
                 <div className="pagination2">
+                    
                     <span>
                         Page {props.page} of {props.total}:
                     </span>

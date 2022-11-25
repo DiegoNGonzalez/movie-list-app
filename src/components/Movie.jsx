@@ -18,7 +18,7 @@ const Movie = (props) => {
                     <p className="describe">{props.describe}</p>
                     <p className="run-time">
                     Run Time: {props.duration}
-                        <span>MMPA: {props.clasification}</span> .
+                        <span>MMPA: PG-13</span> .
                         <span>Release: {props.date}</span>
                     </p>
                     <p>
